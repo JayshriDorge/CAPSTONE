@@ -1,0 +1,3 @@
+i am the core developer for this project and will be responsible for the GUI related changes in the my branch.
+
+Owner: SOhan
